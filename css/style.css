@@ -1,0 +1,30 @@
+body > .grid {
+    height: 100%
+}
+
+body {
+    background-color: #D7D7E2
+}
+
+.facebook {
+    color: #3B5998
+}
+
+.google {
+	color: #4885ed
+}
+.shield {
+    color: #33cc33
+}
+
+.eye {
+    color: #F43A3E
+}
+
+.globe {
+    color: #0000FF
+}
+
+.maryland {
+    color: #F43A3E
+}
