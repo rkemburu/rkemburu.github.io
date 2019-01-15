@@ -37,6 +37,10 @@ body {
     color: #ff00bf
 }
 
+.copyright outline {
+    color: #5333ed
+}
+
 .icon-flipped {
     transform: scaleX(-1);
     -moz-transform: scaleX(-1);
