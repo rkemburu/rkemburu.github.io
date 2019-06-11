@@ -13,8 +13,17 @@ body {
 .google {
 	color: #4885ed
 }
+
 .shield {
     color: #33cc33
+}
+
+.dollar {
+    color: red
+}
+
+.exchange {
+    color: blue
 }
 
 .eye {
