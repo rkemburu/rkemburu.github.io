@@ -1,4 +1,4 @@
 # Personal Website
 
 Minimalistic design, summarizes education and past experience.
-Contains links to resume, github, linkedin and email.
+Contains links to github, linkedin and email and my favorite - The New Paper.
